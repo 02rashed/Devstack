@@ -16,7 +16,3 @@ You can select any of those stacks in the cart.
 
 Shows if anything added to cart or removed.
 
-
-
-i. jsx used in react, it looks like html but it is not html.
-ii. 
