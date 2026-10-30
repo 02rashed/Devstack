@@ -4,6 +4,8 @@ Description :
 
 Devstack.com is a website that shows some technologies of web delopement.you can buy any of the selected stacks from this website.
 
+Live Link : https://devstac.netlify.app/
+
 Technology Used: 
 
 Used React + TypeScript + Tailwind to build this project.
